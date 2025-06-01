@@ -8,7 +8,7 @@ theme = "hugo-PaperMod"
 
 [params]    
   defaultTheme = "light" 
-  footerAuthor = "Проект выполнил: Ifviflbyjd"
+
 
 
 [menu]  
