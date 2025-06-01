@@ -1,6 +1,7 @@
 ---
 title: "Главная"   
-description: "Аннотация проекта"  
+description: "Аннотация проекта" 
+author: "Шамшадинов Э. Р." 
 ---  
 
 # Видеоигра Safety Madness  

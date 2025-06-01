@@ -1,11 +1,15 @@
 baseURL = 'https://example.org/'
 languageCode = "ru-ru"
 title = 'Safety Madness'
+author = 'Шамшадинов Э.Р.'
 theme = "hugo-PaperMod"
 
 
+
 [params]    
-  defaultTheme = "light"  
+  defaultTheme = "light" 
+  footerAuthor = "Проект выполнил: Ifviflbyjd"
+
 
 [menu]  
   [[menu.main]]  
@@ -22,9 +26,10 @@ theme = "hugo-PaperMod"
     weight = 3  
   [[menu.main]]  
     name = "Журнал"  
-    url = "/journal"  
+    url = "/journal/post1"  
     weight = 4  
   [[menu.main]]  
     name = "Ресурсы"  
     url = "/resources"  
     weight = 5  
+

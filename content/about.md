@@ -16,4 +16,4 @@ title: "О проекте"
 - программы для работы с пиксельной графикой
 
 ![](/images/pers_godot.png) 
-![](/images/fl.jpg)
+ ![](/images/fl.jpg)
