@@ -1,11 +1,96 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>My New Hugo Site</title>
+    <title>Главная on Safety Madness</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on My New Hugo Site</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
+    <description>Recent content in Главная on Safety Madness</description>
+    <generator>Hugo -- 0.147.7</generator>
+    <language>ru-ru</language>
+    <lastBuildDate>Sun, 01 Jun 2025 19:39:49 +0300</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Команда</title>
+      <link>http://localhost:1313/team/</link>
+      <pubDate>Sun, 01 Jun 2025 19:39:49 +0300</pubDate>
+      <guid>http://localhost:1313/team/</guid>
+      <description>&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Участник&lt;/th&gt;
+          &lt;th&gt;Роль&lt;/th&gt;
+          &lt;th&gt;Вклад в проект&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Еннер Илья&lt;/td&gt;
+          &lt;td&gt;Программист&lt;/td&gt;
+          &lt;td&gt;Основные механики игры, взаимодействие сокружением&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Мных Ян&lt;/td&gt;
+          &lt;td&gt;Гейм-дизайнер&lt;/td&gt;
+          &lt;td&gt;Концепт игры, курирование проекта&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Масленников Олег&lt;/td&gt;
+          &lt;td&gt;Разработчик&lt;/td&gt;
+          &lt;td&gt;Добавление правил и подсказок по технике безопасности&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Сорокина Елизавета&lt;/td&gt;
+          &lt;td&gt;Художник&lt;/td&gt;
+          &lt;td&gt;Создание арта окружения и локаций&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Лендер Марк&lt;/td&gt;
+          &lt;td&gt;Гейм-дизайнер&lt;/td&gt;
+          &lt;td&gt;Арт и анимация главного героя&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Шамшадинов Эмиль&lt;/td&gt;
+          &lt;td&gt;Программист&lt;/td&gt;
+          &lt;td&gt;Разработка эвентов, взаимодействия с окружением&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Комаров Егор&lt;/td&gt;
+          &lt;td&gt;Программист-разработчик&lt;/td&gt;
+          &lt;td&gt;Разработка управления главным героем, настройка экрана меню&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Кузнецов Данила&lt;/td&gt;
+          &lt;td&gt;Композитор&lt;/td&gt;
+          &lt;td&gt;Основная музыкальная тема&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Неткачев Даниил&lt;/td&gt;
+          &lt;td&gt;Мастер презентации&lt;/td&gt;
+          &lt;td&gt;Следит за состоянием проекта, занимается его презентацией&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;img alt=&#34;Фото команды&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/team-photo.png&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>О проекте</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;h2 id=&#34;цели-и-задачи&#34;&gt;Цели и задачи&lt;/h2&gt;
+&lt;p&gt;Создать&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;увлекательный геймплей&lt;/li&gt;
+&lt;li&gt;привлекательный арт и саундтрек&lt;/li&gt;
+&lt;li&gt;занимательную образовательную составляющую&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;применяемые-технологии&#34;&gt;Применяемые технологии&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;игровой движок Godot и я.п. gd script&lt;/li&gt;
+&lt;li&gt;Fl studio&lt;/li&gt;
+&lt;li&gt;программы для работы с пиксельной графикой&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/pers_godot.png&#34;&gt;
+&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/fl.jpg&#34;&gt;&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>

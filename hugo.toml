@@ -1,3 +1,30 @@
 baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+languageCode = "ru-ru"
+title = 'Safety Madness'
+theme = "hugo-PaperMod"
+
+
+[params]    
+  defaultTheme = "light"  
+
+[menu]  
+  [[menu.main]]  
+    name = "Главная"  
+    url = "/"  
+    weight = 1  
+  [[menu.main]]  
+    name = "О проекте"  
+    url = "/about"  
+    weight = 2  
+  [[menu.main]]  
+    name = "Команда"  
+    url = "/team"  
+    weight = 3  
+  [[menu.main]]  
+    name = "Журнал"  
+    url = "/journal"  
+    weight = 4  
+  [[menu.main]]  
+    name = "Ресурсы"  
+    url = "/resources"  
+    weight = 5  
